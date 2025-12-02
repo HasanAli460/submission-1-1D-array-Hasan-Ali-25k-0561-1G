@@ -13,4 +13,11 @@ submission 3
 - [reverse vowels](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1838309788/)
 - [check-palindrome](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/submissions/1838325889/)
 - [rotate](https://leetcode.com/problems/rotate-image/submissions/1838396220/)
+  
+sub#4
+- [climbing](https://leetcode.com/problems/climbing-stairs/submissions/1844876716/)
+- [tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/submissions/1844888385/)
+- [struct-cpp](https://www.hackerrank.com/challenges/c-tutorial-struct/problem?isFullScreen=true)
+- [boxes](https://www.hackerrank.com/challenges/too-high-boxes/problem?isFullScreen=true)
+  
 
